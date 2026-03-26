@@ -144,22 +144,6 @@ Authorization: <your_token>
 
 ---
 
-## 📦 Postman Collection
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login](./screenshots/primelogin.png)
-
-### 📝 Register Page
-![Register](./screenshots/primeregister.png)
-
-
-
-### 📦 Tasks
-![get Tasks](./screenshots/gettasks.png)
-
-![Tasks creation](./screenshots/primetaskcreation.png)
-
 Included in repository for API testing.
 
 ---
