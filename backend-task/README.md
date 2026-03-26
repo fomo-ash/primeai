@@ -156,8 +156,9 @@ Authorization: <your_token>
 
 
 ### 📦 Tasks
-![Tasks](./screenshots/gettasks.png)
-![Tasks](./screenshots/primetaskcreation.png)
+![get Tasks](./screenshots/gettasks.png)
+
+![Tasks creation](./screenshots/primetaskcreation.png)
 
 Included in repository for API testing.
 
